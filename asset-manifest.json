@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rubee-app/static/css/main.a73c83db.css",
+    "main.js": "/rubee-app/static/js/main.9d8354f1.js",
+    "static/js/453.d7ad95fe.chunk.js": "/rubee-app/static/js/453.d7ad95fe.chunk.js",
+    "static/media/fondo-inicio.jpg": "/rubee-app/static/media/fondo-inicio.a8b82f6e8ef6de5fe86d.jpg",
+    "index.html": "/rubee-app/index.html",
+    "main.a73c83db.css.map": "/rubee-app/static/css/main.a73c83db.css.map",
+    "main.9d8354f1.js.map": "/rubee-app/static/js/main.9d8354f1.js.map",
+    "453.d7ad95fe.chunk.js.map": "/rubee-app/static/js/453.d7ad95fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a73c83db.css",
+    "static/js/main.9d8354f1.js"
+  ]
+}
